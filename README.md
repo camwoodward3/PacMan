@@ -1,18 +1,38 @@
-## Getting Started
+# Project Title (Update)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is Pacman made with Java. It's made from the YouTube tutorial "Code Pacman in Java" by Kenny Yip Coding, except I made some changes to the game, including teleporting from left to right, making a new map, and made the movment for Pacman smoother.
 
-## Folder Structure
+## Instructions for Build and Use
 
-The workspace contains two folders by default, where:
+Steps to build and/or run the software:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Press the start button to start the game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Instructions for using the software:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. First step here
+2.
+3.
 
-## Dependency Management
+## Development Environment
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* Java if you're using VS Code
+* or IntelliJ
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* https://www.youtube.com/watch?v=lB_J-VNMVpE
+*
+*
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* Improve the ghost movement
+* Add levels to the game
+* Add a message telling the user that they have completed the game.
